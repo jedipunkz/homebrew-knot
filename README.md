@@ -8,7 +8,6 @@ Use the full name: `knot` alone is the Knot DNS server in homebrew-core.
 
 ```sh
 brew tap jedipunkz/knot
-brew trust --formula jedipunkz/knot/knot  # Homebrew versions that require trusting taps
 brew install jedipunkz/knot/knot
 ```
 
